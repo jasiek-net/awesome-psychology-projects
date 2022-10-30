@@ -45,7 +45,7 @@ Other things related to psychology projects.
 - [drobooks/pyschological-science](https://github.com/drobooks/pyschological-science) - high-quality awesome Psychology courses, videos and books
 - [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - a curated list of awesome social engineering resources
 - [pnk314/psychedelics](https://github.com/pnk314/psychedelics) - collection of literature pertaining to the medical and recreational use of psychedelic drugs
-- [unshakenme/OSPAT](https://github.com/unshakenme/OSPAT) - ppen source psychedelic-assisted therapy curriculum
+- [unshakenme/OSPAT](https://github.com/unshakenme/OSPAT) - open source psychedelic-assisted therapy curriculum
 
 ## Contribute
 
