@@ -6,7 +6,7 @@
 ## Contents
 
 - [Psychometrics](#psychometrics)
-- [Therapy](#therapy)
+- [Psychotherapy](#psychotherapy)
 - [Related](#related)
 
 
@@ -28,7 +28,9 @@
 - [simonarvin/eyeloop](https://github.com/simonarvin/eyeloop) - Python 3-based eye-tracker tailored specifically to dynamic, closed-loop experiments
 - [MIEC/vr-tsst](https://github.com/MIEC/vr-tsst) - tool for experimental induction of acute mental stress in the laboratory
 
-## Therapy
+## Psychotherapy
+
+- [metapsy-project/metapsyDocs](https://github.com/metapsy-project/metapsyDocs) - open source platform with meta-analytic researches around psychotherapy
 
 ### EMDR
 
