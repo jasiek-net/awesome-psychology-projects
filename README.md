@@ -20,7 +20,7 @@
   - [automoto/big-five-data](https://github.com/automoto/big-five-data) - Big five personality trait scores for 307,313 people from different countries
 - [16Personalities](https://www.16personalities.com/) - free personality test based on [NERIS](https://www.16personalities.com/articles/our-theory) theory
 - [TravisDoesStuff/Rorschach](https://github.com/TravisDoesStuff/Rorschach) - MERN-stack application giving a Rorschach test to users
-
+- [iworeushankaonce/rimanalytics](https://github.com/iworeushankaonce/rimanalytics) - application for calculation and analysis of the Rorschach Inkblot Method
 
 ### Tools for tests and experiments
 
