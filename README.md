@@ -35,6 +35,10 @@
 
 Other things related to psychology projects.
 
+### Games & Fun
+
+- [Hacker News User Modelling](http://kolinko.github.io/um-hn/) - hacker news leaders sorted by Watson User Modelling scores
+
 ### Other (Awesome) Lists
 
 - [Rodeobe/bruxism](https://github.com/Rodeobe/bruxism) - crowdfunded list of bruxism (teeth grinding) remedies
