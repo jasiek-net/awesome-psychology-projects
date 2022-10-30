@@ -5,25 +5,26 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Psychometrics](#psychometrics)
+- [Related](#related)
 
 
-## Section
+## Psychometrics
 
-About this section. Optional. Keep this short and focus on the list.
+### Personality Tests
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - open source web app for IPIP-NEO-PI test (big five)
+-  [16Personalities](https://www.16personalities.com/) - free personality test based on [NERIS](https://www.16personalities.com/articles/our-theory) theory
 
+## Related
 
-## Another Section
+Other things related to psychology projects.
 
-### Subsection
+### Other Awesome Lists
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [Rodeobe/bruxism](https://github.com/Rodeobe/bruxism) - crowdfunded list of bruxism (teeth grinding) remedies
+- [drobooks/pyschological-science](https://github.com/drobooks/pyschological-science) - high-quality awesome Psychology courses, videos and books, learning tutotials, discussions, and important books
+- [setliberum/involuntary-psychological-experiments](https://github.com/setliberum/involuntary-psychological-experiments) - involuntary psychological experiments on psychiatric patients in hospitals and around the world
 
 ## Contribute
 
