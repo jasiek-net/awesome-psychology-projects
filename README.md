@@ -12,7 +12,7 @@
 
 ## Psychometrics
 
-### Personality Tests
+### Personality
 
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - open source web app for IPIP-NEO-PI test (Big Five / OCEAN)
   - [JordanWalsh35/Predicting-Drug-Use-with-the-Big-Five-Personality-Traits](https://github.com/JordanWalsh35/Predicting-Drug-Use-with-the-Big-Five-Personality-Traits) - predict propensity to take drugs
@@ -26,7 +26,7 @@
 
 - [jsPsych](https://github.com/jspsych/jsPsych) - JavaScript framework for creating behavioral experiments that run in a web browser
 - [simonarvin/eyeloop](https://github.com/simonarvin/eyeloop) - Python 3-based eye-tracker tailored specifically to dynamic, closed-loop experiments
-
+- [MIEC/vr-tsst](https://github.com/MIEC/vr-tsst) - tool for experimental induction of acute mental stress in the laboratory
 
 ## Therapy
 
