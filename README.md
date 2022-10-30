@@ -17,6 +17,7 @@
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - open source web app for IPIP-NEO-PI test (Big Five / OCEAN)
   - [JordanWalsh35/Predicting-Drug-Use-with-the-Big-Five-Personality-Traits](https://github.com/JordanWalsh35/Predicting-Drug-Use-with-the-Big-Five-Personality-Traits) - predict propensity to take drugs
   - [RomanPylypchuk/OceanCar](https://github.com/RomanPylypchuk/OceanCar) - program that makes your car brand suggestions, according to your OCEAN score
+  - [automoto/big-five-data](https://github.com/automoto/big-five-data) - Big five personality trait scores for 307,313 people from different countries
 - [16Personalities](https://www.16personalities.com/) - free personality test based on [NERIS](https://www.16personalities.com/articles/our-theory) theory
 - [TravisDoesStuff/Rorschach](https://github.com/TravisDoesStuff/Rorschach) - MERN-stack application giving a Rorschach test to users
 
@@ -25,9 +26,6 @@
 
 - [jsPsych](https://github.com/jspsych/jsPsych) - JavaScript framework for creating behavioral experiments that run in a web browser
 - [simonarvin/eyeloop](https://github.com/simonarvin/eyeloop) - Python 3-based eye-tracker tailored specifically to dynamic, closed-loop experiments
-
-### Data sets
-- [automoto/big-five-data](https://github.com/automoto/big-five-data) - Big five personality trait scores for 307,313 people from different countries
 
 
 ## Therapy
