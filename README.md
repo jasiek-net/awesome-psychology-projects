@@ -42,10 +42,11 @@ Other things related to psychology projects.
 ### Other (Awesome) Lists
 
 - [Rodeobe/bruxism](https://github.com/Rodeobe/bruxism) - crowdfunded list of bruxism (teeth grinding) remedies
-- [drobooks/pyschological-science](https://github.com/drobooks/pyschological-science) - high-quality awesome Psychology courses, videos and books
+- [drobooks/pyschological-science](https://github.com/drobooks/pyschological-science) - high-quality awesome psychology courses, videos and books
 - [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - a curated list of awesome social engineering resources
 - [pnk314/psychedelics](https://github.com/pnk314/psychedelics) - collection of literature pertaining to the medical and recreational use of psychedelic drugs
 - [unshakenme/OSPAT](https://github.com/unshakenme/OSPAT) - open source psychedelic-assisted therapy curriculum
+- [alcovegan/awesome-imposter-syndrome](https://github.com/alcovegan/awesome-imposter-syndrome) - curated list of resources about imposter syndrome
 
 ## Contribute
 
