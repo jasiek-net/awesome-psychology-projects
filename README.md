@@ -30,8 +30,11 @@
 
 ## Therapy
 
-- [nikuzz/emdr-therapy-webapp2](https://github.com/nikuzz/emdr-therapy-webapp2) - web app for self-administered EMDR (Eye Movement Desensitization and Reprocessing) treatment
+### EMDR
 
+- [nikuzz/emdr-therapy-webapp2](https://github.com/nikuzz/emdr-therapy-webapp2) - web app for self-administered EMDR (Eye Movement Desensitization and Reprocessing) treatment
+- [QrnaJnyynpr/EMDR](https://github.com/QrnaJnyynpr/EMDR) - customisable tool for EMDR therapy
+- [Arrvi/remote-emdr](https://github.com/Arrvi/remote-emdr) - remote EMDR sessions with same mirrored link, control is shared
 
 ## Related
 
