@@ -16,6 +16,8 @@
 
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - open source web app for IPIP-NEO-PI test (Big Five)
 - [16Personalities](https://www.16personalities.com/) - free personality test based on [NERIS](https://www.16personalities.com/articles/our-theory) theory
+- [TravisDoesStuff/Rorschach](https://github.com/TravisDoesStuff/Rorschach) - MERN-stack application giving a Rorschach test to users
+
 
 ### Tools for tests and experiments
 
