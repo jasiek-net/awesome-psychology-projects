@@ -38,6 +38,10 @@
 - [QrnaJnyynpr/EMDR](https://github.com/QrnaJnyynpr/EMDR) - customisable tool for EMDR therapy
 - [Arrvi/remote-emdr](https://github.com/Arrvi/remote-emdr) - remote EMDR sessions with same mirrored link, control is shared
 
+## Mental health
+
+- [29ki/29k](https://github.com/29ki/29k) - free, non-profit, open-source and co-created mental health app 29k
+
 ## Related
 
 Other things related to psychology projects.
