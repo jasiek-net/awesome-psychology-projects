@@ -5,10 +5,21 @@
 
 ## Contents
 
+- [Anxiety](#anxiety)
 - [Psychometrics](#psychometrics)
 - [Psychotherapy](#psychotherapy)
 - [Related](#related)
 
+## Anxiety
+
+### Social Anxiety
+
+- [Agora-VR/Agora-VR](https://github.com/Agora-VR/Agora-VR) - treatment of social anxiety by utilizing VR technology
+- [conference-buddy/conference-buddy-web-app](https://github.com/conference-buddy/conference-buddy-web-app) - platform to find companions for tech conferences
+- [yjj781265/Icebr8k_app](https://github.com/yjj781265/Icebr8k_app) - social polling app that helps you find common interests and create meaningful connections
+- [rs2416/Detecting_Social_Anxiety](https://github.com/rs2416/Detecting_Social_Anxiety) - detecting social anxiety based on wearable devices
+- [Emaneliforp/WAY](https://github.com/Emaneliforp/WAY) - simple socializing games with AI to practice talking to other people, public chat rooms to meet new people, and recommended youtube videos about social anxiety
+- [soumilchugh/ExpoSocial-Android](https://github.com/soumilchugh/ExpoSocial-Android) - android app that is designed for therapy management of social anxiety
 
 ## Psychometrics
 
