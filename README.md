@@ -6,6 +6,7 @@
 ## Contents
 
 - [Anxiety](#anxiety)
+- [Depression](#depression)
 - [Psychometrics](#psychometrics)
 - [Psychotherapy](#psychotherapy)
 - [Related](#related)
@@ -20,6 +21,17 @@
 - [rs2416/Detecting_Social_Anxiety](https://github.com/rs2416/Detecting_Social_Anxiety) - detecting social anxiety based on wearable devices
 - [Emaneliforp/WAY](https://github.com/Emaneliforp/WAY) - simple socializing games with AI to practice talking to other people, public chat rooms to meet new people, and recommended youtube videos about social anxiety
 - [soumilchugh/ExpoSocial-Android](https://github.com/soumilchugh/ExpoSocial-Android) - android app that is designed for therapy management of social anxiety
+
+## Depression
+
+- [garrettsummerfi3ld/callout](https://github.com/garrettsummerfi3ld/callout) - automatically reach out to your friends or family while in need
+- [AnandaRauf/Edison-AT-Emotional-Depression-Assistant-](https://github.com/AnandaRauf/Edison-AT-Emotional-Depression-Assistant-) - depression recognition
+- [USA-97/Neo-Health-Assistant-Chatbot](https://github.com/USA-97/Neo-Health-Assistant-Chatbot) - android chatbot with phq-9 questionnaire
+- [rharish101/PClub-Project](https://github.com/rharish101/PClub-Project) - depression therapy chatbot working on Facebook
+- [HimanshuAttri/Leanut](https://github.com/HimanshuAttri/Leanut) - social chatbot for people in depression and suicidal condition
+- [PratikSavla/aio-bot](https://github.com/PratikSavla/aio-bot) - chat bot with emotion recognition
+- [Chinmayrane16/Depression-Chatbot](https://github.com/Chinmayrane16/Depression-Chatbot) - chatbot based on tensorflow and reddit related to depression
+- [Jflick58/DepressionAI](https://github.com/Jflick58/DepressionAI) - Alexa skill for people suffering with depression
 
 ## Psychometrics
 
