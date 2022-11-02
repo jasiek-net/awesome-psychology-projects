@@ -13,6 +13,9 @@
 
 ## Anxiety
 
+- [hariharitha21/Detection-of-Anxiety-and-Depression](https://github.com/hariharitha21/Detection-of-Anxiety-and-Depression) - detecting anxiety and depression with facial and speech emotion recognition
+- [F0903/AnxietyJournal](https://github.com/F0903/AnxietyJournal) - app for taking note of when you are anxious or journaling anxiety-provoking events
+
 ### Social Anxiety
 
 - [Agora-VR/Agora-VR](https://github.com/Agora-VR/Agora-VR) - treatment of social anxiety by utilizing VR technology
@@ -64,6 +67,7 @@
 ## Mental health
 
 - [29ki/29k](https://github.com/29ki/29k) - free, non-profit, open-source and co-created mental health app 29k
+- [mauleenn/HarmonyMood](https://github.com/mauleenn/HarmonyMood) - mood tracking iOS app to improve their mental health
 
 ## Related
 
@@ -71,6 +75,7 @@ Other things related to psychology projects.
 
 ### Games & Fun
 
+- [matronator/AnxietySimulator](https://github.com/matronator/AnxietySimulator) - simulation game of anxiety disorders
 - [Hacker News User Modelling](http://kolinko.github.io/um-hn/) - hacker news leaders sorted by Watson User Modelling scores
 
 ### Other (Awesome) Lists
