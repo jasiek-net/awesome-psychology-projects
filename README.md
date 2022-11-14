@@ -51,6 +51,7 @@
 ### Tools for tests and experiments
 
 - [jsPsych](https://github.com/jspsych/jsPsych) - JavaScript framework for creating behavioral experiments that run in a web browser
+- [psychopy/psychopy](https://github.com/psychopy/psychopy) - package for creating experiments in behavioral science (psychology and neuroscience)
 - [simonarvin/eyeloop](https://github.com/simonarvin/eyeloop) - Python 3-based eye-tracker tailored specifically to dynamic, closed-loop experiments
 - [MIEC/vr-tsst](https://github.com/MIEC/vr-tsst) - tool for experimental induction of acute mental stress in the laboratory
 
