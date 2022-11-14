@@ -57,12 +57,19 @@
 ## Psychotherapy
 
 - [metapsy-project/metapsyDocs](https://github.com/metapsy-project/metapsyDocs) - open source platform with meta-analytic researches around psychotherapy
+- [metapsy-project/metapsyTools](https://github.com/metapsy-project/metapsyTools) - R package facilitates the calculation of effect sizes and meta-analyses
+- [utahnlp/therapist-observer](https://github.com/utahnlp/therapist-observer) - family of neural components for paperwork Observing Dialogue in Therapy: Categorizing and Forecasting Behavioral Codes
+- [cpsyctc/CECPfuns](https://github.com/cpsyctc/CECPfuns) - package of R functions related to psychology and psychotherapy
 
 ### EMDR
 
-- [nikuzz/emdr-therapy-webapp2](https://github.com/nikuzz/emdr-therapy-webapp2) - web app for self-administered EMDR (Eye Movement Desensitization and Reprocessing) treatment
+- [MaxAFriedrich/EMDR](https://github.com/MaxAFriedrich/EMDR) - fully customisable tool for EMDR therapy
+- [ava-cassiopeia/emdr-clicker](https://github.com/ava-cassiopeia/emdr-clicker) - super nice EMDR tool with sound
+- [https://github.com/eladkarako/emdr](https://github.com/eladkarako/emdr) - self-treatment EMDR with instruction
+- [nikuzz/emdr-therapy-webapp2](https://github.com/nikuzz/emdr-therapy-webapp2) - web app for self-administered EMDR treatment
 - [QrnaJnyynpr/EMDR](https://github.com/QrnaJnyynpr/EMDR) - customisable tool for EMDR therapy
 - [Arrvi/remote-emdr](https://github.com/Arrvi/remote-emdr) - remote EMDR sessions with same mirrored link, control is shared
+- [hosteren/EMDR-for-browsers](https://github.com/hosteren/EMDR-for-browsers) - basic EMDR in browser
 
 ## Mental health
 
