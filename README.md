@@ -54,6 +54,7 @@
 - [psychopy/psychopy](https://github.com/psychopy/psychopy) - package for creating experiments in behavioral science (psychology and neuroscience)
 - [simonarvin/eyeloop](https://github.com/simonarvin/eyeloop) - Python 3-based eye-tracker tailored specifically to dynamic, closed-loop experiments
 - [MIEC/vr-tsst](https://github.com/MIEC/vr-tsst) - tool for experimental induction of acute mental stress in the laboratory
+- [kuakua.app/experiment](https://kuakua.app/experiment) - web-based behavioral experiments platform featuring reaction time tests, cognitive tasks, and browser-native psychology paradigms
 
 ## Psychotherapy
 
@@ -76,6 +77,7 @@
 
 - [29ki/29k](https://github.com/29ki/29k) - free, non-profit, open-source and co-created mental health app 29k
 - [mauleenn/HarmonyMood](https://github.com/mauleenn/HarmonyMood) - mood tracking iOS app to improve their mental health
+- [kuakua-app/kuakua.app](https://kuakua.app) - AI-powered psychology platform combining positive psychology tools, mental health tests, reflection prompts, and well-being practices with a strong focus on privacy and multilingual access
 
 ## Related
 
@@ -85,6 +87,7 @@ Other things related to psychology projects.
 
 - [matronator/AnxietySimulator](https://github.com/matronator/AnxietySimulator) - simulation game of anxiety disorders
 - [Hacker News User Modelling](http://kolinko.github.io/um-hn/) - hacker news leaders sorted by Watson User Modelling scores
+- [kuakua.app/games](https://kuakua.app/games) - interactive web games inspired by cognitive psychology and behavioral science concepts
 
 ### Other (Awesome) Lists
 
@@ -94,6 +97,7 @@ Other things related to psychology projects.
 - [pnk314/psychedelics](https://github.com/pnk314/psychedelics) - collection of literature pertaining to the medical and recreational use of psychedelic drugs
 - [unshakenme/OSPAT](https://github.com/unshakenme/OSPAT) - open source psychedelic-assisted therapy curriculum
 - [alcovegan/awesome-imposter-syndrome](https://github.com/alcovegan/awesome-imposter-syndrome) - curated list of resources about imposter syndrome
+- [kuakua.app/explore](https://kuakua.app/explore) - curated directory of online psychology projects, experiments, and mental health resources
 
 ## Contribute
 
