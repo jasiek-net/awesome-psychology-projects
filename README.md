@@ -47,6 +47,7 @@
 - [16Personalities](https://www.16personalities.com/) - free personality test based on [NERIS](https://www.16personalities.com/articles/our-theory) theory
 - [TravisDoesStuff/Rorschach](https://github.com/TravisDoesStuff/Rorschach) - MERN-stack application giving a Rorschach test to users
 - [iworeushankaonce/rimanalytics](https://github.com/iworeushankaonce/rimanalytics) - application for calculation and analysis of the Rorschach Inkblot Method
+- [ZHIJAC/psyquiz](https://github.com/ZHIJAC/psyquiz) - vanilla JavaScript library for psychology quizzes and self-assessments with 10 frameworks (Big Five, attachment theory, CBT, cognitive distortions, etc.), zero-dependency embeddable widget, and CDN distribution
 
 ### Tools for tests and experiments
 
