@@ -49,6 +49,8 @@
 - [iworeushankaonce/rimanalytics](https://github.com/iworeushankaonce/rimanalytics) - application for calculation and analysis of the Rorschach Inkblot Method
 - [ZHIJAC/psyquiz](https://github.com/ZHIJAC/psyquiz) - vanilla JavaScript library for psychology quizzes and self-assessments with 10 frameworks (Big Five, attachment theory, CBT, cognitive distortions, etc.), zero-dependency embeddable widget, and CDN distribution
 
+
+- [PsyQuiz API](https://countrycode.xyz/api/) - Free REST API for psychological assessments — 8 frameworks (Big Five, Attachment Style, CBT Cognitive Distortions, Decision Style, Emotional Intelligence, Flow State, Mental Age, Social Energy). No API key required, CORS open. Interactive tests: https://countrycode.xyz/psy/
 ### Tools for tests and experiments
 
 - [jspsych/jsPsych](https://github.com/jspsych/jsPsych) - JavaScript framework for creating behavioral experiments that run in a web browser
