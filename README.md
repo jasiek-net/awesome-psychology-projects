@@ -48,6 +48,10 @@
 - [TravisDoesStuff/Rorschach](https://github.com/TravisDoesStuff/Rorschach) - MERN-stack application giving a Rorschach test to users
 - [iworeushankaonce/rimanalytics](https://github.com/iworeushankaonce/rimanalytics) - application for calculation and analysis of the Rorschach Inkblot Method
 
+### Cognitive Assessment
+
+- [daligao/iq-challenge-extended](https://ordinarymantrying.com/tools/iq-challenge-extended.html) - browser-based 20-question cognitive assessment covering Cognitive Reflection Test, Wason selection task, Monty Hall problem, conjunction fallacy (Linda problem), anchoring bias, gambler's fallacy, and sunk cost. Instant scoring. Free, no login, single HTML file.
+
 ### Tools for tests and experiments
 
 - [jspsych/jsPsych](https://github.com/jspsych/jsPsych) - JavaScript framework for creating behavioral experiments that run in a web browser
