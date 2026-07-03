@@ -85,6 +85,7 @@ Other things related to psychology projects.
 
 - [matronator/AnxietySimulator](https://github.com/matronator/AnxietySimulator) - simulation game of anxiety disorders
 - [Hacker News User Modelling](http://kolinko.github.io/um-hn/) - hacker news leaders sorted by Watson User Modelling scores
+- [Mind Traps](https://ordinarymantrying.com/tools/mind-traps.html) - 40-level psychology laws quiz: identify which law or bias a real-world scenario demonstrates (Murphy's Law to Goodhart's Law)
 
 ### Other (Awesome) Lists
 
