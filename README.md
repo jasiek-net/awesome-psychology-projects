@@ -94,6 +94,7 @@ Other things related to psychology projects.
 - [pnk314/psychedelics](https://github.com/pnk314/psychedelics) - collection of literature pertaining to the medical and recreational use of psychedelic drugs
 - [unshakenme/OSPAT](https://github.com/unshakenme/OSPAT) - open source psychedelic-assisted therapy curriculum
 - [alcovegan/awesome-imposter-syndrome](https://github.com/alcovegan/awesome-imposter-syndrome) - curated list of resources about imposter syndrome
+- [daligao/psychology-laws-awesome](https://github.com/daligao/psychology-laws-awesome) - 40 curated psychology laws and cognitive biases with interactive quiz (320+ real-world scenarios). Bridges the gap between knowing a bias and recognizing it in practice. Built on 8,000+ player data.
 
 ## Contribute
 
