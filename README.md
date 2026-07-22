@@ -45,6 +45,7 @@
   - [RomanPylypchuk/OceanCar](https://github.com/RomanPylypchuk/OceanCar) - program that makes your car brand suggestions, according to your OCEAN score
   - [automoto/big-five-data](https://github.com/automoto/big-five-data) - Big five personality trait scores for 307,313 people from different countries
 - [16Personalities](https://www.16personalities.com/) - free personality test based on [NERIS](https://www.16personalities.com/articles/our-theory) theory
+- [Know Yourself Better](https://knowyourselfbetter.app/) - 67+ free self-assessment tests across 30+ categories (psychology, career, AI, finance, health, relationships). No signup, no tracking, all results in-browser.
 - [TravisDoesStuff/Rorschach](https://github.com/TravisDoesStuff/Rorschach) - MERN-stack application giving a Rorschach test to users
 - [iworeushankaonce/rimanalytics](https://github.com/iworeushankaonce/rimanalytics) - application for calculation and analysis of the Rorschach Inkblot Method
 
