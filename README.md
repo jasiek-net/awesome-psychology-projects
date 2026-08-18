@@ -75,6 +75,7 @@
 ## Mental health
 
 - [29ki/29k](https://github.com/29ki/29k) - free, non-profit, open-source and co-created mental health app 29k
+- [Masked But Aware Crisis Mode](https://www.maskedbutaware.nl/en/tools/crisis-mode) - browser-based tool for reducing decisions and communicating support needs during overload; not an emergency service
 - [mauleenn/HarmonyMood](https://github.com/mauleenn/HarmonyMood) - mood tracking iOS app to improve their mental health
 
 ## Related
