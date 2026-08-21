@@ -61,6 +61,7 @@
 - [metapsy-project/metapsyTools](https://github.com/metapsy-project/metapsyTools) - R package facilitates the calculation of effect sizes and meta-analyses
 - [utahnlp/therapist-observer](https://github.com/utahnlp/therapist-observer) - family of neural components for paperwork Observing Dialogue in Therapy: Categorizing and Forecasting Behavioral Codes
 - [cpsyctc/CECPfuns](https://github.com/cpsyctc/CECPfuns) - package of R functions related to psychology and psychotherapy
+- [473185670/cbt-toolkit](https://github.com/473185670/cbt-toolkit) - 23 free interactive CBT (Cognitive Behavioral Therapy) tools built with vanilla JavaScript. Includes thought records, cognitive distortion checker, mood tracker, panic diary, and condition-specific guides for anxiety, depression, OCD, PTSD, and more.
 
 ### EMDR
 
