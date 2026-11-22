@@ -54,6 +54,7 @@
 - [psychopy/psychopy](https://github.com/psychopy/psychopy) - package for creating experiments in behavioral science (psychology and neuroscience)
 - [simonarvin/eyeloop](https://github.com/simonarvin/eyeloop) - Python 3-based eye-tracker tailored specifically to dynamic, closed-loop experiments
 - [MIEC/vr-tsst](https://github.com/MIEC/vr-tsst) - tool for experimental induction of acute mental stress in the laboratory
+- [ReflexTimer](https://reflextimer.com/) - free browser battery of reaction-time, click-speed, aim and number-memory tests with a published measurement methodology
 
 ## Psychotherapy
 
